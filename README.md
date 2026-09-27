@@ -19,7 +19,7 @@ python3 --version
 ### Option 1: Clone with Git (recommended)
 
 ```bash
-git clone https://github.com/USERNAME/daily-activity-library.git
+git clone https://github.com/enockaning18/daily-activity-library.git
 cd daily-activity-library
 ```
 
